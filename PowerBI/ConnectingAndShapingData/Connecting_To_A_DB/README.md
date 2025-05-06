@@ -24,7 +24,7 @@ Power Query supports connections to many common database systems, such as:
 5. Select the necessary tables
 6. Click **Transform Data**
 
-![Connect to MySQL](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/fcfdae0e-522d-4617-8245-4da598f274a8/image.png)
+<img width="853" alt="image" src="https://github.com/user-attachments/assets/ef9e3201-7bdd-4e43-91d2-2a60932f31b9" />
 
 ---
 
@@ -39,12 +39,14 @@ You can also extract structured data directly from web pages.
    `https://en.wikipedia.org/wiki/List_of_asset_management_firms`
 3. Click **OK**
 
-![Web Data](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/ee5b011b-32e0-41d5-b1fb-c6f329f47fef/image.png)
+<img width="748" alt="image (1)" src="https://github.com/user-attachments/assets/99b72014-364c-481a-bd53-fa23d403e748" />
+
 
 4. Select the table you want to extract
 5. Click **Transform Data**
 
-![Select Table](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/39bccdd0-6940-451a-b129-c1120be09a9a/image.png)
+<img width="905" alt="image (2)" src="https://github.com/user-attachments/assets/ec7ab306-1020-4476-a380-f1fd11df31bc" />
+
 
 ---
 
