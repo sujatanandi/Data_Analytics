@@ -23,37 +23,43 @@ Power BI supports connections to virtually any type of data source, including:
 
 ### 1. Click **Get Data**
 
-![Get Data](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/62c456ec-b64d-431d-95da-ed7d352757b4/image.png)
+![image](https://github.com/user-attachments/assets/b17c91fa-e03c-445c-bfc5-bad9e7d57313)
+
 
 ---
 
 ### 2. Choose **CSV** and click **Connect**
 
-![Connect CSV](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/ace93f4f-b3de-467b-8294-7df87c17ac9d/image.png)
+![image (1)](https://github.com/user-attachments/assets/48ee9f0a-ffff-4c24-87ed-2120ae0b4878)
+
 
 ---
 
 ### 3. Load the `AdventureWorks_Territory_Lookup.csv` file
 
-![Load CSV File](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/238ef14b-1abd-4ba1-a8ae-4cc64de74b4d/image.png)
+![image (2)](https://github.com/user-attachments/assets/2c719c85-caaf-4a1c-9215-54e74b32e914)
+
 
 ---
 
 ### 4. Click **Transform Data** to enter Power Query Editor
 
-![Transform Data](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/2d833926-f194-44fd-ab6c-def44bb67ed4/image.png)
+![image (3)](https://github.com/user-attachments/assets/54a229f4-87df-42bf-adbd-0a41257a9aa5)
+
 
 ---
 
 ### 5. Repeat for `AdventureWorks_Product_Lookup.csv`
 
-![Repeat Load](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/b7329a04-4226-465b-a2ba-ae75165d1ab0/image.png)
+![image (4)](https://github.com/user-attachments/assets/625f8af0-14ac-464d-82d3-7300efe75e94)
+
 
 ---
 
 ### 6. Check the **M-code** behind the scenes
 
-![M-code](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/43bf3b45-e0d7-4b18-a3ed-a61c4ee663f7/image.png)
+![image (5)](https://github.com/user-attachments/assets/67d07b85-6313-4e6b-98b6-639469ad2e14)
+
 
 ---
 
@@ -61,7 +67,8 @@ Power BI supports connections to virtually any type of data source, including:
 
 Power BI automatically detects column types based on the first 200 rows.
 
-![Applied Steps](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/9341a262-6c4d-4a37-8233-368e7be6c33e/image.png)
+![image (6)](https://github.com/user-attachments/assets/0322ea99-fabd-42d2-a256-4e1c9328282d)
+
 
 ---
 
@@ -69,7 +76,7 @@ Power BI automatically detects column types based on the first 200 rows.
 
 Use **Fixed Decimal Number**, rename the step to `Currency`.
 
-![Convert to Currency](https://prod-files-secure.s3.us-west-2.amazonaws.com/456fe8c2-8771-43d9-87f2-a749cf9e4634/9382dae6-c869-4a76-b3f8-366eea5c07de/image.png)
+![image (7)](https://github.com/user-attachments/assets/332ad9cd-f175-4f81-b11c-16eb1e3d7600)
 
 ---
 
@@ -93,4 +100,4 @@ Whether you're presenting data to stakeholders or building enterprise-level dash
 
 ## 🔗 Connect with Me
 
-If you found this helpful or want to collaborate on data-related projects, let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile)!
+If you found this helpful or want to collaborate on data-related projects, let’s connect on [LinkedIn](https://www.linkedin.com/in/sujatanandi/)!
